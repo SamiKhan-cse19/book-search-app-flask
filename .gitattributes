@@ -1,0 +1,7 @@
+app/api/model/search-model/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
+app/api/data/booksummaries.csv filter=lfs diff=lfs merge=lfs -text
+app/api/index/booksummaries.index filter=lfs diff=lfs merge=lfs -text
+app/api/index/booksummaries-trained.index filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.index filter=lfs diff=lfs merge=lfs -text
