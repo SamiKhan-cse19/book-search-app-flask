@@ -5,3 +5,10 @@ app/api/index/booksummaries-trained.index filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.bin filter=lfs diff=lfs merge=lfs -text
 *.index filter=lfs diff=lfs merge=lfs -text
+ml-dev/colbertindex/0.pt filter=lfs diff=lfs merge=lfs -text
+ml-dev/colbertindex/0.sample filter=lfs diff=lfs merge=lfs -text
+ml-dev/colbertindex/0.tokenids.zip filter=lfs diff=lfs merge=lfs -text
+ml-dev/colbertindex/doclens.0.json filter=lfs diff=lfs merge=lfs -text
+ml-dev/colbertindex/docnos.pkl.gz filter=lfs diff=lfs merge=lfs -text
+ml-dev/colbertindex/ivfpq.100.faiss filter=lfs diff=lfs merge=lfs -text
+ml-dev/colbertindex/ivfpq.faiss filter=lfs diff=lfs merge=lfs -text
